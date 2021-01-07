@@ -1,0 +1,96 @@
+body{
+    background-color: white;
+    color           : #9d9d9d;
+}
+/*  header  */ 
+
+.top-heading{
+    background-color: white;
+}
+.top-heading .col-xs-12{
+    text-align      : center;
+}
+.logo-icon{
+    font-size       : 120px;
+    margin-top      : 45px;
+    color           : #9d9d9d;
+    text-align      : center;
+}
+.top-heading .col-xs-12 .logo-icon{
+    font-size       : 120px;
+    margin-top      : 0px;
+    margin-bottom   : 20px;
+}
+.company-name{
+    color           : #9d9d9d;
+    letter-spacing  : -2px;
+    font-size       : 80px;
+    margin          :  65px auto;
+    direction       : ltr;
+}
+
+/* nav bar */
+
+nav{
+    color           : rgb(148, 134, 255);
+}
+
+/*  end  header   */
+
+/* carousel */
+
+.cursol-img{
+    margin          : auto;
+}
+.container{
+    margin-top      : 50px;
+}
+
+ /*  start our projects */
+ .items-row .item{
+     margin: 30px auto;
+ }
+ /*  end our projects */
+
+
+.thumbnail{
+    background-color:transparent;
+    border: 1px solid #eee !important;
+    padding: 10px;
+}
+.title{
+    margin-bottom: 30px !important;
+}
+.thumbnail img{
+    height          : 315px;
+}
+.btn{
+    background-color: #eee;
+    border          : none;
+}
+.btn-primary{
+    background-color: #9d9d9d;
+}
+.btn-secondary{
+    margin: 15px auto;
+}
+.jumbotron{
+    background-color: transparent;
+    color           : rgba(213, 255, 248, 0.705);
+}
+.jumbotron h2{
+    color           : #ccc;
+}
+.item{
+    border: 1px solid #eee !important;
+    padding: 10px;
+}
+.tem{
+    margin:auto
+}
+.fill{
+    background-color: #eee;
+}
+h1{
+    text-transform: capitalize;
+}
