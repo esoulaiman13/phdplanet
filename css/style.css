@@ -94,3 +94,9 @@ nav{
 h1{
     text-transform: capitalize;
 }
+.contact-info .fa-phone,
+.contact-info .fa-whatsapp{
+    font-size: 30px;
+    margin-right: 40px;
+    color: rgba(0, 128, 0, 0.767);
+}
