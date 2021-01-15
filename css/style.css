@@ -100,3 +100,9 @@ h1{
     margin-right: 40px;
     color: rgba(0, 128, 0, 0.767);
 }
+.dropdown-menu > .active > a{
+    background-color: #ccc;
+}
+.dropdown-menu > .active > a:hover{
+    background-color: #ccc;
+}
